@@ -1,0 +1,64 @@
+{
+  "monsters": [
+    {
+      "id": 1,
+      "createdAt": 1678636381284,
+      "updatedAt": 1678636381284,
+      "imageUrl": "https://fsl-assessment-public-files.s3.amazonaws.com/assessment-cc-01/dead-unicorn.png",
+      "attack": 60,
+      "defense": 40,
+      "hp": 10,
+      "speed": 80,
+      "name": "Dead Unicorn",
+      "battles": null
+    },
+    {
+      "id": 2,
+      "createdAt": 1678636381284,
+      "updatedAt": 1678636381284,
+      "imageUrl": "https://fsl-assessment-public-files.s3.amazonaws.com/assessment-cc-01/old-shark.png",
+      "attack": 50,
+      "defense": 20,
+      "hp": 80,
+      "speed": 90,
+      "name": "Old Shark",
+      "battles": null
+    },
+    {
+      "id": 3,
+      "createdAt": 1678636381284,
+      "updatedAt": 1678636381284,
+      "imageUrl": "https://fsl-assessment-public-files.s3.amazonaws.com/assessment-cc-01/red-dragon.png",
+      "attack": 90,
+      "defense": 80,
+      "hp": 90,
+      "speed": 70,
+      "name": "Red Dragon",
+      "battles": null
+    },
+    {
+      "id": 4,
+      "createdAt": 1678636381284,
+      "updatedAt": 1678636381284,
+      "imageUrl": "https://fsl-assessment-public-files.s3.amazonaws.com/assessment-cc-01/robot-bear.png",
+      "attack": 50,
+      "defense": 40,
+      "hp": 80,
+      "speed": 60,
+      "name": "Robot Bear",
+      "battles": null
+    },
+    {
+      "id": 5,
+      "createdAt": 1678636381284,
+      "updatedAt": 1678636381284,
+      "imageUrl": "https://fsl-assessment-public-files.s3.amazonaws.com/assessment-cc-01/angry-snake.png",
+      "attack": 80,
+      "defense": 20,
+      "hp": 70,
+      "speed": 80,
+      "name": "Angry Snake",
+      "battles": null
+    }
+  ]
+}
